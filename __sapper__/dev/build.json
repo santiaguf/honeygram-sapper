@@ -1,0 +1,16 @@
+{
+  "bundler": "webpack",
+  "shimport": null,
+  "assets": {
+    "index": "a1c94a90c6cdc7413aae/index.index.js",
+    "main": "a1c94a90c6cdc7413aae/main.js",
+    "profile": "a1c94a90c6cdc7413aae/profile.profile.js",
+    "vendors~index": "a1c94a90c6cdc7413aae/vendors~index.vendors~index.js"
+  },
+  "css": {
+    "chunks": {
+      "index.svelte": [],
+      "profile.svelte": []
+    }
+  }
+}

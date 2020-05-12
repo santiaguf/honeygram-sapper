@@ -1,0 +1,25 @@
+{
+  "name": "honeygram",
+  "version": "1.0.0",
+  "description": "App like instagram",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sapper dev",
+    "build": "sapper build",
+    "export": "sapper export",
+    "start": "node __sapper__/build"
+  },
+  "author": "Santiago Bernal <exactlimon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "polka": "^0.5.2",
+    "sirv": "^0.4.2"
+  },
+  "devDependencies": {
+    "svelte": "^3.20.1",
+    "sapper": "^0.27.12",
+    "svelte-loader": "^2.13.6",
+    "webpack": "^4.43.0"
+  }
+}

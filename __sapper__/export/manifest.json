@@ -1,0 +1,20 @@
+{
+    "background_color": "#ffffff",
+    "theme_color": "#333333",
+    "name": "honeygram",
+    "short_name": "hnygrm",
+    "display": "minimal-ui",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "logo-192.png",
+            "size": "192px192",
+            "type": "image/png"
+        },
+        {
+            "src": "logo-512.png",
+            "sizes": "512px512",
+            "type": "image/png"
+        }
+    ]
+}
